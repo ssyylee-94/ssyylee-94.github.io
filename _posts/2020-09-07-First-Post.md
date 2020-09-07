@@ -2,6 +2,7 @@
 layout: post
 title: Sample post
 tags: [Jekyll, Blog]
+order: 4
 ---
 
 대학원와서 배운거 블로그로 남겨 두겠다고 Git으로 블로그 주소만 만들어두고
