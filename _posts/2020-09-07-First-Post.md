@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: First-Post
 tags: [Jekyll, Blog]
 order: 4
 ---
