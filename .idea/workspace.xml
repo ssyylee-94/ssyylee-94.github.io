@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f7ddad-5155-4e93-b09d-f891ce4d26dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-07-First-Post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-07-First-Post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-17-class-override.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-07-Flask.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-07-Flask.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-09-07-First-Post.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-First-Post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="323">
-                <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+                <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -38,11 +39,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-class-override.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="456">
-                <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-09-07-Flask.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="743">
+                <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,6 +84,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-11-28-markdown-and-html.md" />
         <option value="$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md" />
         <option value="$PROJECT_DIR$/_posts/2020-09-07-First-Post.md" />
+        <option value="$PROJECT_DIR$/_posts/2020-09-07-Flask.md" />
       </list>
     </option>
   </component>
@@ -152,12 +166,12 @@
       <workItem from="1599733167815" duration="1043000" />
       <workItem from="1600054048620" duration="562000" />
       <workItem from="1600069889232" duration="65000" />
-      <workItem from="1600076692900" duration="3379000" />
+      <workItem from="1600076692900" duration="6327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13209000" />
+    <option name="totallyTimeSpent" value="16157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -263,14 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-09-07-Flask.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-09-07-Docker.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -279,21 +285,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-07-First-Post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-09-07-First-Post.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-class-override.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-09-07-Flask.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="743">
+            <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
