@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f7ddad-5155-4e93-b09d-f891ce4d26dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <first_editor relative-caret-position="608">
+                <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -152,12 +151,12 @@
       <workItem from="1599733167815" duration="1043000" />
       <workItem from="1600054048620" duration="562000" />
       <workItem from="1600069889232" duration="65000" />
-      <workItem from="1600076692900" duration="2991000" />
+      <workItem from="1600076692900" duration="3079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12821000" />
+    <option name="totallyTimeSpent" value="12909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -292,8 +291,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-클래스-오버라이딩.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <first_editor relative-caret-position="608">
+            <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
