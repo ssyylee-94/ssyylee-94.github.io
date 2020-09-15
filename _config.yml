@@ -6,7 +6,7 @@ url: "http://ssyylee-94.github.io"
 theme_settings:
   # Meta
   title: 잘하고 싶은 대학원생
-  avatar: assets/img/avatar.png
+  avatar: assets/img/selfie.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "석사과정 대학원생의 기록용 블로그" # used by search engines
