@@ -13,9 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>전기에너지 석사과정 연구원, 이것저것 하는 거 기록남기는 블로그 </p>
-
-     <p>python, docker, openDSS</p>
+     <p>연구과제 하면서 배운 거 기록남기는 블로그 </p>
+     <p>Python, 데이터 분석, Back-End 개발, 계통분석</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
